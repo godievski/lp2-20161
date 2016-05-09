@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Profesores>
+	<Profesor>
+		<Nombre>David Rodriguez</Nombre>
+		<DNI>12345678</DNI>
+		<FechaNac>12/05/1984</FechaNac>
+		<Direccion>Prueba</Direccion>
+	</Profesor>
+	<Profesor>
+		<Nombre>Claudia Gonzales</Nombre>
+		<DNI>12345679</DNI>
+		<FechaNac>12/05/1986</FechaNac>
+		<Direccion>Prueba</Direccion>
+	</Profesor>
+	<Profesor>
+		<Nombre>Juan Reyes</Nombre>
+		<DNI>12345680</DNI>
+		<FechaNac>12/05/1975</FechaNac>
+		<Direccion>Prueba</Direccion>
+	</Profesor>
+</Profesores>

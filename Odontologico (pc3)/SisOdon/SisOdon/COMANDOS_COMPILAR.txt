@@ -1,0 +1,3 @@
+csc /target:library /out:.\Modelo\Modelo.dll Modelo\*.cs
+
+csc /target:module /out:Controlador\Controlador.netmodule /r:Modelo\modelo.dll Controlador\*.cs

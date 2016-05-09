@@ -1,0 +1,40 @@
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\bin\Debug\SisOdon.exe.config
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\bin\Debug\SisOdon.exe
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\bin\Debug\SisOdon.pdb
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.csprojResolveAssemblyReference.cache
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.Properties.Resources.resources
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.csproj.GenerateResource.Cache
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.exe
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.pdb
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.Form1.resources
+C:\David\PUCP\2016-1\LP2\Laboratorios\Practica 3\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.frmPersonas.resources
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\bin\Debug\SisOdon.exe.config
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.exe
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.pdb
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\bin\Debug\SisOdon.exe
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\bin\Debug\SisOdon.pdb
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.csprojResolveAssemblyReference.cache
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.Form1.resources
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.Properties.Resources.resources
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.frmPersonas.resources
+C:\Users\alulab14\Desktop\SisOdon\SisOdon\obj\Debug\SisOdon.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\bin\Debug\SisOdon.exe.config
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.exe
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.pdb
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\bin\Debug\SisOdon.exe
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\bin\Debug\SisOdon.pdb
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.Form1.resources
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.Properties.Resources.resources
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.frmPersonas.resources
+C:\Users\Usuario\Desktop\pc3\SisOdon\SisOdon\obj\Debug\SisOdon.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\bin\Debug\SisOdon.exe.config
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.exe
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.pdb
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\bin\Debug\SisOdon.exe
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\bin\Debug\SisOdon.pdb
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.Form1.resources
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.Vista.frmPersonas.resources
+C:\Users\Usuario\Desktop\PC3-lp2\SisOdon\SisOdon\obj\Debug\SisOdon.csproj.GenerateResource.Cache

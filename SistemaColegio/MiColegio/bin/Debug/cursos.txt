@@ -1,0 +1,9 @@
+CTA,Primaria
+Comunicación Integral,Primaria
+Manualidades,Inicial
+Matematica,Primaria
+Deportes,Inicial
+CTA,Inicial
+Educ.Fisica,Primaria
+Religion,Primaria
+Dibujo,Inicial

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usuarios>
+	<Usuario>
+		<user>dallasi</user>
+		<contrasena>1</contrasena>
+		<nombre>David</nombre>
+		<apellido>Allasi</apellido>
+	</Usuario>
+	<Usuario>
+		<user>falva</user>
+		<contrasena>2</contrasena>
+		<nombre>Fernando</nombre>
+		<apellido>Alva</apellido>
+	</Usuario>
+	<Usuario>
+		<user>aroncal</user>
+		<contrasena>3</contrasena>
+		<nombre>Ana</nombre>
+		<apellido>Roncal</apellido>
+	</Usuario>
+</Usuarios>

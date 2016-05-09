@@ -1,0 +1,86 @@
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\bin\Debug\MiColegio.exe.config
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\bin\Debug\MiColegio.exe
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\bin\Debug\MiColegio.pdb
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.exe
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.pdb
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana06\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\bin\Debug\MiColegio.exe.config
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.exe
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.pdb
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\bin\Debug\MiColegio.exe
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\bin\Debug\MiColegio.pdb
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmColegio.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmMantProfesor.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmBuscarProfe.resources
+C:\David\PUCP\2016-1\LP2\Ejercicios de Clase\Semana08\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmHorario.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\bin\Debug\MiColegio.exe.config
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\bin\Debug\MiColegio.exe
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\bin\Debug\MiColegio.pdb
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmBuscarProfe.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmColegio.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmHorario.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmMantProfesor.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.exe
+C:\Users\Usuario\Desktop\MiColegio\MiColegio\obj\Debug\MiColegio.pdb
+C:\temp\MiColegio\MiColegio\bin\Debug\MiColegio.exe.config
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.exe
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.pdb
+C:\temp\MiColegio\MiColegio\bin\Debug\MiColegio.exe
+C:\temp\MiColegio\MiColegio\bin\Debug\MiColegio.pdb
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmBuscarProfe.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmColegio.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmHorario.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmMantProfesor.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\temp\MiColegio\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\bin\Debug\MiColegio.exe.config
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.exe
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.pdb
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\bin\Debug\MiColegio.exe
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\bin\Debug\MiColegio.pdb
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmBuscarProfe.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmColegio.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmHorario.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmMantProfesor.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\Users\Anthony\Documents\NetBeansProjects\INF282_LP2\Repaso_Parcial\MiColegio\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\bin\Debug\MiColegio.exe.config
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.exe
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.pdb
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\bin\Debug\MiColegio.exe
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\bin\Debug\MiColegio.pdb
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.Form1.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmBuscarProfe.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmColegio.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmHorario.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmMantProfesor.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmPrincipal.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.Vista.frmUsuarios.resources
+C:\Users\Usuario\Desktop\Pregunta1\MiColegio\obj\Debug\MiColegio.csproj.GenerateResource.Cache
